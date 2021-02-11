@@ -1,0 +1,10 @@
+C:\Users\Dell\source\repos\flappybirddemo\bin\Debug\flappybirddemo.exe.config
+C:\Users\Dell\source\repos\flappybirddemo\bin\Debug\flappybirddemo.exe
+C:\Users\Dell\source\repos\flappybirddemo\bin\Debug\flappybirddemo.pdb
+C:\Users\Dell\source\repos\flappybirddemo\obj\Debug\flappybirddemo.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\flappybirddemo\obj\Debug\flappybirddemo.Form1.resources
+C:\Users\Dell\source\repos\flappybirddemo\obj\Debug\flappybirddemo.Properties.Resources.resources
+C:\Users\Dell\source\repos\flappybirddemo\obj\Debug\flappybirddemo.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\flappybirddemo\obj\Debug\flappybirddemo.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\flappybirddemo\obj\Debug\flappybirddemo.exe
+C:\Users\Dell\source\repos\flappybirddemo\obj\Debug\flappybirddemo.pdb
